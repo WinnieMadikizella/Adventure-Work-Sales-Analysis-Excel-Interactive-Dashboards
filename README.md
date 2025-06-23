@@ -36,6 +36,12 @@ The primary goal is to assist decision-makers in understanding trends, identifyi
 
 > ![Dashboard Preview](Detailed%20Dashboard.png)
 
+## Interactive Version (Excel Online/Desktop)
+
+[Open the Dashboard on OneDrive](https://1drv.ms/x/c/65a2b41c95eb898b/EX7sIvKPtVNDhUVecL3VXzwBqXklGFJZuBGKGSp8XEEj7w?e=l2BcUI)
+
+> **For full functionality** (e.g., Clear Filters button), please open this workbook in the **Excel desktop app**.
+
 ## Connect with Me
 - https://www.linkedin.com/in/winnie-madikizella-data/ 
 - https://winniemadikizella.github.io/ 
