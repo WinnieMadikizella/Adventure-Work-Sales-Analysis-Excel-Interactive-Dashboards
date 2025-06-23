@@ -21,23 +21,24 @@ The primary goal is to assist decision-makers in understanding trends, identifyi
 4. Profit distribution by gender was **evenly balanced**.
 
 ## What I Learned
-✅ Advanced Excel skills: PivotTables, Slicers, Conditional Formatting
-✅ Effective data cleaning and transformation techniques
-✅ Dashboard design for business storytelling
-✅ Insight extraction from multi-dimensional data
+- ✅ Advanced Excel skills: PivotTables, Slicers, Conditional Formatting
+- ✅ Effective data cleaning and transformation techniques
+- ✅ Dashboard design for business storytelling
+- ✅ Insight extraction from multi-dimensional data
 
 ## Tools Used
 - **Microsoft Excel** (PivotTables, Charts, Slicers, DAX)
 - **Power Query** (Data Cleaning)
 - **Adventure Works Dataset**
+  You can download the dataset used for this project here: [AdventureWorks.xlsx](AdventureWorks.xlsx)
 
 ## Acknowledgments
 Special thanks to **Zain Ul Hassan** for inspiring and guiding the data analysis journey.
 
 ## Dashboard Preview
 
-> *(Insert a screenshot or GIF of your dashboard here)*  
-> ![Dashboard Preview](link-to-screenshot.png)
+> ![Dashboard Preview](Time%20series%20Dashboard.png)
+> ![Dashboard Preview](Detailed%20Dashboard.png)
 
 ## Connect with Me
 - https://www.linkedin.com/in/winnie-madikizella-data/ 
