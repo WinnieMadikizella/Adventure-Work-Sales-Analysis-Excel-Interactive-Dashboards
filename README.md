@@ -1,7 +1,5 @@
 # Adventure-Work-Sales-Analysis-Excel-Interactive-Dashboards
 
-![Excel Dashboard Thumbnail](link-to-your-dashboard-image-if-available)
-
 ## Project Overview
 This project leverages four years of sales data from the Adventure Works dataset to uncover key business insights using a dynamic and interactive dashboard built in **Microsoft Excel**.
 
@@ -30,14 +28,12 @@ The primary goal is to assist decision-makers in understanding trends, identifyi
 - **Microsoft Excel** (PivotTables, Charts, Slicers, DAX)
 - **Power Query** (Data Cleaning)
 - **Adventure Works Dataset**
-  You can download the dataset used for this project here: [AdventureWorks.xlsx](AdventureWorks.xlsx)
-
-## Acknowledgments
-Special thanks to **Zain Ul Hassan** for inspiring and guiding the data analysis journey.
+  - You can download the dataset used for this project here: [AdventureWorks.xlsx](AdventureWorks.xlsx)
 
 ## Dashboard Preview
 
 > ![Dashboard Preview](Time%20series%20Dashboard.png)
+
 > ![Dashboard Preview](Detailed%20Dashboard.png)
 
 ## Connect with Me
