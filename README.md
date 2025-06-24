@@ -1,9 +1,7 @@
 # Adventure-Work-Sales-Analysis-Excel-Interactive-Dashboards
 
 ## Project Overview
-This project leverages four years of sales data from the Adventure Works dataset to uncover key business insights using a dynamic and interactive dashboard built in **Microsoft Excel**.
-
-The primary goal is to assist decision-makers in understanding trends, identifying growth areas, and optimizing performance across markets, products, and customer demographics.
+This project leverages four years of sales data from the Adventure Works dataset to uncover key business real-time insights using a dynamic and interactive dashboard built in **Microsoft Excel**. The primary goal is to assist decision-makers in understanding trends, identifying growth areas, and optimizing performance across markets, products, and customer demographics.
 
 ## Key Business Questions
 1. What are the overall sales and profit trends?
